@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shreyas-Sanil
 - 👀 I’m interested in Adroid & Flutter Development
-- 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate with Startups
 - 📫 How to reach me atshreyas237@gmail.com
 
